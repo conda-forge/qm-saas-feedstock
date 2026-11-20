@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: 1.1.7
+  version: "1.2.1"
 
 package:
   name: qm-saas
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/q/qm-saas/qm_saas-${{ version }}.tar.gz
-  sha256: 3e9662b10eeb87dc8f2f79451aa2b23b588c52b716accdf1d0f060d061d59b70
+  sha256: 8ba25d8b9e1f584c4a3bff620e583ee34604c7e89f97c92975572f1272762ddc
 
 build:
   number: 0
